@@ -1,0 +1,22 @@
+{
+    "name": "Mr.Lin",
+    "version": "1.0.0",
+    "description": "总有一天，那些让你难过的事情，你都能笑着说出来。",
+    "keywords": [
+        "123"
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "linye96 <lin.ye2@iwhalecloud.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "default",
+        "md": [
+            "首页.md",
+            "React.md"
+        ]
+    }
+}
